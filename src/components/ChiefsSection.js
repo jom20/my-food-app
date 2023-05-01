@@ -3,37 +3,37 @@ import ChiefCard from "./ChiefCard"
 export default function ChiefsSection(){
     const chiefs = [
         {
-            name: "Juan Carlos",
+            name: "Melvin E. Gamana",
             img: "/img/top-chiefs/img_1.jpg",
             recipesCount: "10",
             cuisine: "Mexican",
         },
         {
-            name: "John Doe",
+            name: "Jomalyn N. Enriquez",
             img: "/img/top-chiefs/img_2.jpg",
             recipesCount: "05",
             cuisine: "Japanese",
         },
         {
-            name: "Erich Maria",
+            name: "Marverick Bastes",
             img: "/img/top-chiefs/img_3.jpg",
             recipesCount: "13",
             cuisine: "Italian",
         },
         {
-            name: "Chris Brown",
+            name: "Jillou Quillopee",
             img: "/img/top-chiefs/img_4.jpg",
             recipesCount: "08",
             cuisine: "American"
         },
         {
-            name: "Blake Lively",
+            name: "Alexis Sagusay",
             img: "/img/top-chiefs/img_5.jpg",
             recipesCount: "09",
             cuisine: "French"
         },
         {
-            name: "Ben Affleck",
+            name: "Jonalyn N. Enriquez",
             img: "/img/top-chiefs/img_6.jpg",
             recipesCount: "04",
             cuisine: "Indian"
@@ -41,7 +41,7 @@ export default function ChiefsSection(){
     ]
     return (
         <div className="section chiefs">
-            <h1 className="title">Our Top Chiefs</h1>
+            <h1 className="title">My Top Chiefs</h1>
             <div className="top-chiefs-container">
                 {/* <ChiefCard />
                 <ChiefCard />

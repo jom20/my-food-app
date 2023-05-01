@@ -4,62 +4,62 @@ import RecipeCard from "../components/RecipeCard"
 export default function Recipes(){
     const recipes = [
         {
-            title: "Chicken Pan Pizza",
+            title: "Escabetche",
             image: "/img/gallery/img_1.jpg",
             authorImg: "/img/top-chiefs/img_1.jpg",
         }, 
         {
-            title: "Spaghetti and Meatballs",
+            title: "Juice",
             image: "/img/gallery/img_4.jpg",
             authorImg: "/img/top-chiefs/img_2.jpg",
         },
         {
-            title: "American Cheese Burger",
+            title: "Menodo",
             image: "/img/gallery/img_5.jpg",
             authorImg: "/img/top-chiefs/img_3.jpg",
         },
         {
-            title: "Mutton Biriyani",
+            title: "Salad",
             image: "/img/gallery/img_6.jpg",
             authorImg: "/img/top-chiefs/img_5.jpg",
         },
         {
-            title: "Japanese Sushi",
+            title: "Tinulang Isda",
             image: "/img/gallery/img_10.jpg",
             authorImg: "/img/top-chiefs/img_6.jpg",
         },
         {
-            title: "Chicken Pan Pizza",
+            title: "Escabetche",
             image: "/img/gallery/img_1.jpg",
             authorImg: "/img/top-chiefs/img_1.jpg",
         }, 
         {
-            title: "Spaghetti and Meatballs",
+            title: "Juice",
             image: "/img/gallery/img_4.jpg",
             authorImg: "/img/top-chiefs/img_2.jpg",
         },
         {
-            title: "American Cheese Burger",
+            title: "Menodo",
             image: "/img/gallery/img_5.jpg",
             authorImg: "/img/top-chiefs/img_3.jpg",
         },
         {
-            title: "Mutton Biriyani",
+            title: "Salad",
             image: "/img/gallery/img_6.jpg",
             authorImg: "/img/top-chiefs/img_5.jpg",
         },
         {
-            title: "Japanese Sushi",
+            title: "Tinulang Isda",
             image: "/img/gallery/img_10.jpg",
             authorImg: "/img/top-chiefs/img_6.jpg",
         },
         {
-            title: "American Cheese Burger",
+            title: "Menodo",
             image: "/img/gallery/img_5.jpg",
             authorImg: "/img/top-chiefs/img_3.jpg",
         },
         {
-            title: "Mutton Biriyani",
+            title: "Salad",
             image: "/img/gallery/img_6.jpg",
             authorImg: "/img/top-chiefs/img_5.jpg",
         }
