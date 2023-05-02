@@ -6,37 +6,37 @@ export default function ChiefsSection(){
             name: "Melvin E. Gamana",
             img: "/img/top-chiefs/img_1.jpg",
             recipesCount: "10",
-            cuisine: "Mexican",
+            cuisine: "Filipino",
         },
         {
             name: "Jomalyn N. Enriquez",
             img: "/img/top-chiefs/img_2.jpg",
             recipesCount: "05",
-            cuisine: "Japanese",
+            cuisine: "Filipino",
         },
         {
             name: "Marverick Bastes",
             img: "/img/top-chiefs/img_3.jpg",
             recipesCount: "13",
-            cuisine: "Italian",
+            cuisine: "Filipino",
         },
         {
             name: "Jillou Quillopee",
             img: "/img/top-chiefs/img_4.jpg",
             recipesCount: "08",
-            cuisine: "American"
+            cuisine: "Filipino"
         },
         {
             name: "Alexis Sagusay",
             img: "/img/top-chiefs/img_5.jpg",
             recipesCount: "09",
-            cuisine: "French"
+            cuisine: "Filipino"
         },
         {
             name: "Jonalyn N. Enriquez",
             img: "/img/top-chiefs/img_6.jpg",
             recipesCount: "04",
-            cuisine: "Indian"
+            cuisine: "Filipino"
         }
     ]
     return (
