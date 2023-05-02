@@ -8,7 +8,9 @@ export default function RecipeCard({recipe}){
                 <img className="auther-img" src={recipe.authorImg} alt=""/>
                 <p className="recipe-title">{recipe.title}</p>
                 <p className="recipe-desc">If you love this recipe, try these easy and tasty beef burritos with Perfect Italiano Mexican Style cheese!</p>
-                <a className="view-btn" href="#!">Comments</a>
+                <a className="view-btn" href="#!">Comment</a>
+                <input type="text" placeholder="Enter text here" />
+                <button>Send</button>
             </div>
         </div>
     )
